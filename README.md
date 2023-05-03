@@ -1,5 +1,8 @@
 # train-object-detector-detectron2
 
-In this video I show you how to train a custom object detector with Detectron2 !
-
-[![Watch the video](https://img.youtube.com/vi/i54_GHj-wkY/0.jpg)](https://www.youtube.com/watch?v=i54_GHj-wkY)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=">
+    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/object_detector_detectron2.jpg" alt="Watch the video">
+    </br>Watch on YouTube: Train object detector custom data with detectron2 !
+</a>
+</p>
